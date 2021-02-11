@@ -1,0 +1,39 @@
+.fnt-xs {
+    font-size: 12px;
+}
+.fnt-xs2 {
+    font-size: 10px; 
+}
+.fnt-base {
+    font-size: 16px;
+}
+.fnt-mb {
+    font-size: 14px;
+}
+.fnt-lg {
+    font-size: 18px; /* clamp */ 
+}
+.fnt-xl {
+    font-size: 20px;
+}
+.fnt-xl2 {
+        font-size: 22px; 
+}
+.fnt-xl3 {
+    font-size: 28px;
+}
+
+.fnt-xl4 {
+    font-size: 32px;
+}
+
+.fnt-xl5 {
+    font-size: 42px;
+}
+
+.txt-center {
+    text-align: center;
+}
+.line-normal {
+    line-height: 1.4;
+}
