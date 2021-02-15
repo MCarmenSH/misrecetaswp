@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mis recetas</title>
     <meta name ="description" content="Página web de recetas">
     <meta name="keywords" content="recetas, ingredientes, menus">
     <link rel="icon" href="/images/restaurant.png">
